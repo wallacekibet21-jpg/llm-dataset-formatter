@@ -1,0 +1,5 @@
+{"id": 1, "text": "This is a sample evaluation log entry with some noise", "score": 0.85, "processed": true}
+{"id": 2, "text": "Another evaluation log entry for testing", "score": 0.92, "processed": true}
+{"id": 3, "text": "The dataset formatter will clean this text", "score": 0.78, "processed": true}
+{"id": 4, "text": "LLM fine-tuning requires structured data like this", "score": 0.88, "processed": true}
+{"id": 5, "text": "Processing multiple records automatically", "score": 0.95, "processed": true}
