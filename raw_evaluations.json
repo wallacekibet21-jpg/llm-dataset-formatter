@@ -1,0 +1,26 @@
+[
+  {
+    "evaluation_id": "EVAL-001",
+    "category": "Constraint Optimization",
+    "user_prompt": "Write a brief, professional email explaining a 3-day data delay. Do not use 'we apologize for any inconvenience'.",
+    "preferred_model_response": "Hi John, Quick update on the data migration. We hit an unexpected server issue today, which means the timeline is pushing back by 3 business days. I appreciate your patience while our engineering team gets everything back on track.",
+    "status": "approved",
+    "annotator_id": "wallacekibet21"
+  },
+  {
+    "evaluation_id": "EVAL-002",
+    "category": "Factuality Verification",
+    "user_prompt": "Provide a 2-sentence summary of when the internet was invented and who is credited as its primary fathers.",
+    "preferred_model_response": "The internet was officially invented on January 1, 1983, with the adoption of the TCP/IP protocol. Vinton Cerf and Bob Kahn are widely credited as the primary fathers of the internet for developing these foundational technologies.",
+    "status": "approved",
+    "annotator_id": "wallacekibet21"
+  },
+  {
+    "evaluation_id": "EVAL-003",
+    "category": "Logical Reasoning",
+    "user_prompt": "A farmer has 5 chickens and 2 cows. How many total legs are on the farm, excluding the farmer? Show step-by-step math inside square brackets.",
+    "preferred_model_response": "There are 18 total legs on the farm. [5 chickens x 2 legs = 10 legs] + [2 cows x 4 legs = 8 legs] = 18 total legs.",
+    "status": "approved",
+    "annotator_id": "wallacekibet21"
+  }
+]
